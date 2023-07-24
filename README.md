@@ -6,7 +6,9 @@
 
  ### In This Project We Converted The Static Web Project To A Dynamic Project With using JavaScript.
 
+
 ---
+
 
 ## Table of Contents
 
@@ -14,20 +16,24 @@
 - [Table of Contents](#table-of-contents)
 - [Page Preview](#page-preview)
 - [Installation & Usage](#installation-and-Usage)
-- [Usage](#usage)
 - [Development](#development)
 - [Contribute](#contribute)
 - [License](#license)
 
 ---
 
+
 ## Page Preview
 
 [(Back to top)](#table-of-contents)
 
+
 ![preview](https://github.com/alialdarai/Udacity-Landing-Page-Project/assets/134742312/76599eea-9f43-4c1f-ae69-22a189a56b80)
 
+
 ---
+
+
 
 # Installation & Usage
 
@@ -38,6 +44,10 @@ To install this project to your PC or laptop click on the "<> code" and then dow
 or Clone by using ``.
 
 After downloading the file, unzip the file then open it in VS Code or Any code editor.
+
+
+---
+
 
 # Development
 [(Back to top)](#table-of-contents)
@@ -85,19 +95,22 @@ After downloading the file, unzip the file then open it in VS Code or Any code e
 
 ---
 
+
+
 # Contribute
 
 [(Back to top)](#table-of-contents)
 
- **- MTCIT -**
+ **-MTCIT**  
 
- **- Makeen -**
+ **-Makeen** 
 
- **- Udacity -**
+ **-Udacity**
 
  ---
+ 
 # License
 
 [(Back to top)](#table-of-contents)
 
-_&copy-Udacity-|-Ali-Muslem_
+_Copyright &copy; Udacity | Ali Muslem_
