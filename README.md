@@ -113,4 +113,8 @@ After downloading the file, unzip the file then open it in VS Code or Any code e
 
 [(Back to top)](#table-of-contents)
 
+<<<<<<< HEAD
 _Copyright &copy; Udacity | Ali Muslem_
+=======
+_Copyright &copy; Udacity | Ali Muslem_
+>>>>>>> dab2dde (second commit)
